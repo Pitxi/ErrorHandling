@@ -1,0 +1,6 @@
+@Pitxi.AspNetCore.ErrorHandling.Testing.API_HostAddress = http://localhost:5125
+
+GET {{Pitxi.AspNetCore.ErrorHandling.Testing.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
