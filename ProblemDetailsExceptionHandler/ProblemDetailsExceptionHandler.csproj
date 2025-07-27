@@ -9,7 +9,7 @@
         <RootNamespace>Pitxi.AspNetCore.ErrorHandling.ProblemDetailsExceptionHandler</RootNamespace>
         <Title>ProblemDetails Exception Handler</Title>
         <Authors>Javier Campón &lt;javiercampon@proton.me&gt;</Authors>
-        <Copyright>Copyright (c) 2025 Javier Campón</Copyright>
+        <Copyright>Copyright &#169; $([System.DateTime]::Now.Year) Javier Campón</Copyright>
         <AssemblyVersion>9.0.0.0</AssemblyVersion>
         <FileVersion>9.0.0</FileVersion>
         <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
